@@ -9,7 +9,7 @@
 - _BERITA RTM_
 - _SUKAN RTM_
 
-**Play on IPTV :play_or_pause:**
+**Play on IPTV :tv:**
 <br>
 
 - **Media Prima**
@@ -20,5 +20,5 @@
 - _TV9_
 - _DRAMA SANGAT_
 
-**Play on IPTV :play_or_pause:**
+**Play on IPTV :Play_or_Pause:**
 <br>
