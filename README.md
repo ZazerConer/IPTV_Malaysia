@@ -15,7 +15,7 @@ _Copy URL :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/RTM
 <br>
 <hr>
 
-- **Media Prima**
+**Media Prima**
 
 - _TV3_
 - _DIDIKTV_
