@@ -22,5 +22,7 @@
 - _DRAMA SANGAT_
 
 **Play on IPTV :tv:**
+
+_Copy link :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/Media_Prima.m3u
 <hr>
 <br>
