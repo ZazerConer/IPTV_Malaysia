@@ -10,8 +10,10 @@
 - _SUKAN RTM_
 
 **Play on IPTV :tv:**
-<hr>
+
+_Copy URL :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/RTM.m3u
 <br>
+<hr>
 
 - **Media Prima**
 
@@ -23,6 +25,6 @@
 
 **Play on IPTV :tv:**
 
-_Copy link :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/Media_Prima.m3u
-<hr>
+_Copy URL :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/Media_Prima.m3u
 <br>
+<hr>
