@@ -1,6 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1, Astro Supersports 1
-http://fortv.cc:8080/shay/shay/122349
+ffmpeg -i http://fortv.cc:8080/shay/shay/122349.ts -c copy -map 0 -f segment -segment_list playlist.m3u8 -segment_time 10 output%03d.ts
