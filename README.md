@@ -28,3 +28,17 @@ _Copy URL :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/RTM
 _Copy URL :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/Media_Prima.m3u
 <br>
 <hr>
+
+**Astro**
+
+- _Supersports 1_
+- _Superaports 2_
+- _Supersports 3_
+- _Supersports 4_
+- _Sportsports 5_
+
+**Play on IPTV :tv:**
+
+_Copy URL :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/Astro.m3u
+<br>
+<hr>
