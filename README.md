@@ -45,9 +45,9 @@ _Copy URL :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/Ast
 
 **All Channels**
 
-- _RTM
-- _Media Prima
-- _Astro
+- _RTM_
+- _Media Prima_
+- _Astro_
 
 **Play on IPTV :tv:**
 
