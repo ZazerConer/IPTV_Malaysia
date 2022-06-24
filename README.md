@@ -42,3 +42,15 @@ _Copy URL :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/Med
 _Copy URL :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/Astro.m3u
 <br>
 <hr>
+
+**All Channels**
+
+- _RTM
+- _Media Prima
+- _Astro
+
+**Play on IPTV :tv:**
+
+_Copy URL :_ https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/Playlist.m3u
+<br>
+<hr>
