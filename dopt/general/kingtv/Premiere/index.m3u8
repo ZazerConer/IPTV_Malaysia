@@ -3,5 +3,5 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-TARGETDURATION:10
 #EXTINF:1,
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01-manifest.m3u8
+http://45.184.160.146:8000/play/a00o
 #EXT-X-ENDLIST
